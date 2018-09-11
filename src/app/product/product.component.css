@@ -1,0 +1,11 @@
+.productStyle{
+    float:left;
+    margin: 5px;
+    width:32%;
+}
+.productStyle img{
+    width: 100%;
+}
+.right{
+    float: right;
+}
